@@ -38,3 +38,4 @@
 
 
  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Gabrielarndt)
+  [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-arndt-874568206/)&nbsp;
