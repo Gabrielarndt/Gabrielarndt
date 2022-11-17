@@ -27,9 +27,8 @@
 
 
 ## 🐍&nbsp; Snake '97
-  
-![Snake animation](https://github.com/Gabrielarndt/Gabrielarndt/blob/output/github-contribution-grid-snake.svg)
-  
+![snake gif](https://raw.githubusercontent.com/Gabrielarndt/Gabrielarndt/output/github-contribution-grid-snake.svg)
+ 
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" align=center>
 
  
