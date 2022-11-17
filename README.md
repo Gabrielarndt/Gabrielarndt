@@ -26,8 +26,11 @@
 
 
 
-
-## Find me around the web 🌎: <img align="left" width="150" height="150" src="/img/Gabrielarndt_git.gif?raw=true"> 
+## 🐍&nbsp; Snake '97
+  
+![Snake animation](https://github.com/Gabrielarndt/Gabrielarndt/blob/output/github-contribution-grid-snake.svg)
+  
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" align=center>
 
  
  
