@@ -31,15 +31,9 @@
 
 
 ## 🐍&nbsp; Snake '97
-
-![https://newsnkc.com/sanam_teri_kasam/2022/10/GIF-221102_131416.gif](https://github.com/Gabrielarndt/Gabrielarndt/blob/main/github-contribution-grid-snake.svg)
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Snake '97" align="center">
-</p>
+![snake gif](https://newsnkc.com/sanam_teri_kasam/2022/10/GIF-221102_131416.gif)
  
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" align="center">
  
   <br>
 
