@@ -29,10 +29,14 @@
 
 
 ## 🐍&nbsp; Snake '97
-![snake gif](https://raw.githubusercontent.com/Gabrielarndt/Gabrielarndt/output/github-contribution-grid-snake.svg)
- 
-<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" align=center>
 
+![snake gif](https://github.com/Gabrielarndt/Gabrielarndt/blob/main/github-contribution-grid-snake.svg)
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Snake '97" align="center">
+</p>
  
  
   <br>
