@@ -14,6 +14,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=TypeScript&logoColor=3178C6)&nbsp;
+![PL/SQL](https://img.shields.io/badge/-PL/SQL-black?style=flat&logo=Oracle)&nbsp;
+![SQL*Plus](https://img.shields.io/badge/-SQL*Plus-black?style=flat&logo=Oracle)&nbsp;
 
 </p>
 
@@ -30,7 +32,7 @@
 
 ## 🐍&nbsp; Snake '97
 
-![snake gif](https://github.com/Gabrielarndt/Gabrielarndt/blob/main/github-contribution-grid-snake.svg)
+![https://newsnkc.com/sanam_teri_kasam/2022/10/GIF-221102_131416.gif](https://github.com/Gabrielarndt/Gabrielarndt/blob/main/github-contribution-grid-snake.svg)
 
 <br>
 
