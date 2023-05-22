@@ -12,6 +12,8 @@
   
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=TypeScript&logoColor=3178C6)&nbsp;
 
 </p>
 
