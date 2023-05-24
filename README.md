@@ -25,6 +25,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql&logoColor=336791)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=4479A1)
 ![CMD](https://img.shields.io/badge/-CMD-black?style=flat&logo=windows&logoColor=0078D6)&nbsp;  
 ---
 
