@@ -40,12 +40,20 @@
 ![CMD](https://img.shields.io/badge/-CMD-black?style=flat&logo=windows&logoColor=0078D6)&nbsp;  
 </p>
 
-<p align="left"> Version:
+<p align="left"> 
+  Version:
+
+  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
+</p>
 
-<p align="left"> Deploy
+<p align="left"> 
+  Deploy
+
+  
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
 </p>
+
  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Gabrielarndt)
   [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-arndt-874568206/)&nbsp;
