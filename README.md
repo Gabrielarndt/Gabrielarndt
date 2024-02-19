@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h2 align="left"> 
-  Hi, I'm Gabriel Henrique Arndt, currently studying programming.
+ Hi, my name is Gabriel Henrique Arndt and I am a full stack programmer. Currently studying System Analysis and Development.
 </p>
 
 ---
